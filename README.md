@@ -9,3 +9,18 @@ Taking ICESat-2 to the mountains: a workflow using satellite laser altimetry to 
 2. DeepIceDrain
 https://github.com/weiji14/deepicedrain
 Mapping and monitoring deep subglacial water activity in Antarctica using remote sensing and machine learning.
+
+3.ICESat-2 meltwater depth retrievals
+https://github.com/fliphilipp/ameryMeltLakesICESat2
+Application to surface melt on southern Amery Ice Shelf, East Antarctica
+By comparing the estimated depths for all algorithms and the manual method.
+
+4. Icepyx
+https://github.com/icesat2py/icepyx
+Python tools for obtaining and working with ICESat-2 data
+
+5. compareATL03-06-08
+https://github.com/fliphilipp/compareATL03-06-08
+use the OpenAltimetry API to quickly compare different ICESat-2 data products
+
+6. 
