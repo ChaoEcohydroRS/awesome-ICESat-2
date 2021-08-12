@@ -23,4 +23,4 @@ Python tools for obtaining and working with ICESat-2 data
 https://github.com/fliphilipp/compareATL03-06-08
 use the OpenAltimetry API to quickly compare different ICESat-2 data products
 
-6. 
+6. New ocean subsurface optical properties from space lidars: CALIOP/CALIPSO and ATLAS/ICESat-2
