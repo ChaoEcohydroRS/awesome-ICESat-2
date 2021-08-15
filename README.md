@@ -35,5 +35,7 @@ https://github.com/fliphilipp/compareATL03-06-08
 ### 8. A photon-counting LiDAR bathymetric method based on adaptive variable ellipse filtering
    * #### Adaptive filtering code:
       * Code for Kalman and Bayesian filters: https://nbviewer.jupyter.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb
+      <br> Reference book: Kalman and Bayesian Filters in Python
+      <br> Python package: https://github.com/rlabbe/filterpy
       * Code: https://github.com/EderSantana/adaptive_kernel_methods
       * kernel adaptive filter Code: https://github.com/ninja3697/Kernel-Adaptive-Filtering-in-Python
