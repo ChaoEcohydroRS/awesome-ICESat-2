@@ -29,9 +29,8 @@ use the OpenAltimetry API to quickly compare different ICESat-2 data products <b
 
 7. Sparse Single Sweep LiDAR Point Cloud Segmentation via Learning Contextual Shape Priors from Scene Completion <br>[[arxiv paper]](https://arxiv.org/abs/2012.03762)
 * Semantic Segmentation and Semantic Scene Completion:https://github.com/yanx27/JS3C-Net
-![](FigureFolder/results.gif)
-
-
-https://github.com/yanx27/Pointnet_Pointnet2_pytorch
-PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling
-https://github.com/dragonbook/pointnet2-pytorch
+![](FigureFolder/Hnet-image.gif)
+    Other similar applications:
+    https://github.com/yanx27/Pointnet_Pointnet2_pytorch
+    PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling
+    https://github.com/dragonbook/pointnet2-pytorch
